@@ -14,7 +14,7 @@
   Download the file and make sure you have the correct version of npm installed.
    
   ## Usage
-  ![screenshot](./Develop/screenshot.png)
+  ![screenshot](./screenshot.png)
   
   Here is a quick tutorial of how the app is used:
     
