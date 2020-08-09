@@ -17,6 +17,7 @@
   ![screenshot](./screenshot.png)
   
   Here is a quick tutorial of how the app is used:
+  https://drive.google.com/file/d/1kZYBAJC86KIGtLipCET4OzRBT212eBPR/view
     
   ## **License:**
   This project is protected under the MIT license.
